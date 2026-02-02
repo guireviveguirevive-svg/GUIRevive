@@ -81,4 +81,5 @@ temp
 venv
 record_output_*/
 replay_output_*/
-droidbot/select_apks/
+# Allow select_apks directory and its contents
+!droidbot/select_apks/**
