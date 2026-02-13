@@ -177,7 +177,7 @@ Each output directory (`record_output_*`, `replay_output_*`) contains:
 └── index.html           # Visual report
 ```
 
-## 3. Test Case Repair (GUIRevive)
+## 3. GUIRevive
 
 GUIRevive automatically repairs obsolete GUI test cases by locating the corresponding widget on the updated app version. It reads test cases from `All_cases.csv` and outputs repaired event sequences.
 
