@@ -1,0 +1,59 @@
+{
+  "tag": "55",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          168,
+          88
+        ],
+        [
+          966,
+          183
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/search_src_text",
+      "checked": false,
+      "text": "Application name or package",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 0,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "798*95",
+      "signature": "[class]android.widget.EditText[resource_id]com.activitymanager:id/search_src_text[text]Application name or package[enabled,,]",
+      "view_str": "996e96cfcdcad17e12cb853c10a4244d",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.activitymanager:id/search_src_text",
+      "allowed_actions": [
+        "touch",
+        "set_text",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<input bound_box=168,88,966,183>Application name or package</input>"
+    }
+  },
+  "start_state": "0cb39975b29aa78493ff18999618d3c0",
+  "stop_state": "0cb39975b29aa78493ff18999618d3c0",
+  "event_str": "TouchEvent(state=0cb39975b29aa78493ff18999618d3c0, view=996e96cfcdcad17e12cb853c10a4244d(MainActivity/EditText-Applicatio))"
+}

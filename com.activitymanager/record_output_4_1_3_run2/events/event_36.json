@@ -1,0 +1,57 @@
+{
+  "tag": "36",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": "Search",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          721,
+          73
+        ],
+        [
+          848,
+          199
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/action_search",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "127*126",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/action_search[text]None[enabled,,]",
+      "view_str": "c0cb2065d525aa77a22797bb8d14505a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/action_search",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<button text='Search' bound_box=721,73,848,199></button>"
+    }
+  },
+  "start_state": "bed1814e05adf6f5daa79af2b3276479",
+  "stop_state": "0cb39975b29aa78493ff18999618d3c0",
+  "event_str": "TouchEvent(state=bed1814e05adf6f5daa79af2b3276479, view=c0cb2065d525aa77a22797bb8d14505a(MainActivity/TextView-))"
+}

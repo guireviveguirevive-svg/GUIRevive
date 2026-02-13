@@ -1,0 +1,101 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        b11dd39 com.activitymanager/com.sdex.activityrunner.MainActivity filter 7d21750
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.activitymanager/androidx.core.content.FileProvider:
+    Provider{b18bf7e com.activitymanager/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.activitymanager.fileprovider]:
+    Provider{b18bf7e com.activitymanager/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{d561cdf com.activitymanager}
+
+Key Set Manager:
+  [com.activitymanager]
+      Signing KeySets: 30
+
+Packages:
+  Package [com.activitymanager] (df06d2c):
+    userId=10147
+    pkg=Package{caa13f5 com.activitymanager}
+    codePath=/data/app/com.activitymanager-S1NVNG4d5mj8Wca2UIYyMQ==
+    resourcePath=/data/app/com.activitymanager-S1NVNG4d5mj8Wca2UIYyMQ==
+    legacyNativeLibraryDir=/data/app/com.activitymanager-S1NVNG4d5mj8Wca2UIYyMQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=413 minSdk=16 targetSdk=31
+    versionName=4.1.3
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{d561cdf com.activitymanager}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/com.activitymanager
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2025-10-27 02:45:47
+    firstInstallTime=2025-10-27 02:45:48
+    lastUpdateTime=2025-10-27 02:45:48
+    signatures=PackageSignatures{afd558a version:2, signatures:[49b2e6d7], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.WAKE_LOCK
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      android.permission.QUERY_ALL_PACKAGES
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+    install permissions:
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294836007 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+
+Package Changes:
+  Sequence number=281
+  User 0:
+    seq=0, package=com.google.android.apps.inputmethod.hindi
+    seq=1, package=com.google.android.inputmethod.korean
+    seq=2, package=com.google.android.inputmethod.pinyin
+    seq=3, package=com.google.android.permissioncontroller
+    seq=4, package=com.android.systemui
+    seq=5, package=com.android.settings
+    seq=6, package=com.google.android.setupwizard
+    seq=8, package=com.google.android.inputmethod.latin
+    seq=10, package=com.google.android.apps.restore
+    seq=11, package=com.google.android.sdksetup
+    seq=16, package=com.google.android.partnersetup
+    seq=17, package=com.google.android.gm
+    seq=19, package=com.google.android.googlequicksearchbox
+    seq=22, package=com.google.android.youtube
+    seq=52, package=com.github.uiautomator
+    seq=161, package=com.google.android.gsf
+    seq=254, package=com.activitymanager
+    seq=280, package=com.google.android.gms
+
+
+Dexopt state:
+  [com.activitymanager]
+    path: /data/app/com.activitymanager-S1NVNG4d5mj8Wca2UIYyMQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.activitymanager]
+     base.apk - 1126
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+
+  APEX session state:

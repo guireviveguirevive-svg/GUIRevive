@@ -1,0 +1,11 @@
+{
+  "tag": "1",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.activitymanager"
+  },
+  "start_state": "3da2dee70891ba7d84e2544d7bccdb71",
+  "stop_state": "3da2dee70891ba7d84e2544d7bccdb71",
+  "event_str": "KillAppEvent()"
+}

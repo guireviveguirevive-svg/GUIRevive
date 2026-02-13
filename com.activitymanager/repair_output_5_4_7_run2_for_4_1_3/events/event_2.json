@@ -1,0 +1,11 @@
+{
+  "tag": "2",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.activitymanager/com.sdex.activityrunner.MainActivity"
+  },
+  "start_state": "3da2dee70891ba7d84e2544d7bccdb71",
+  "stop_state": "ba26e77a1831ea206b527caabcc17927",
+  "event_str": "IntentEvent(intent='am start com.activitymanager/com.sdex.activityrunner.MainActivity')"
+}

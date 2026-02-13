@@ -1,0 +1,53 @@
+{
+  "tag": "10",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          555,
+          95
+        ],
+        [
+          1028,
+          200
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "473*105",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e12fbc26ddef4bc1156f91dee202822f",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    }
+  },
+  "start_state": "62545ba41dea68f0382d960c0a8b306c",
+  "stop_state": "b35bacc330dee820d5a7df8c320076bd",
+  "event_str": "TouchEvent(state=62545ba41dea68f0382d960c0a8b306c, view=e12fbc26ddef4bc1156f91dee202822f(MainActivity/LinearLayout-))"
+}

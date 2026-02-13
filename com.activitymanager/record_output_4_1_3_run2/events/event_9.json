@@ -1,0 +1,58 @@
+{
+  "tag": "9",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": "More options",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          975,
+          73
+        ],
+        [
+          1080,
+          199
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 0,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "105*126",
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+      "view_str": "b9156cf09ff6101b2bfe0550cfeff326",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "3",
+      "desc": "<button text='More options' bound_box=975,73,1080,199></button>"
+    }
+  },
+  "start_state": "bed1814e05adf6f5daa79af2b3276479",
+  "stop_state": "62545ba41dea68f0382d960c0a8b306c",
+  "event_str": "TouchEvent(state=bed1814e05adf6f5daa79af2b3276479, view=b9156cf09ff6101b2bfe0550cfeff326(MainActivity/ImageView-))"
+}

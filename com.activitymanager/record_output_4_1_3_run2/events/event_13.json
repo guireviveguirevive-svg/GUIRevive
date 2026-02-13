@@ -1,0 +1,51 @@
+{
+  "tag": "13",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          63
+        ],
+        [
+          996,
+          1794
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/touch_outside",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "996*1731",
+      "signature": "[class]android.view.View[resource_id]com.activitymanager:id/touch_outside[text]None[enabled,,]",
+      "view_str": "0a7205abe9cf9a70e85db94dbc7b777f",
+      "content_free_signature": "[class]android.view.View[resource_id]com.activitymanager:id/touch_outside"
+    }
+  },
+  "start_state": "d4e220a18ede77534aac40347aa215cf",
+  "stop_state": "bed1814e05adf6f5daa79af2b3276479",
+  "event_str": "TouchEvent(state=d4e220a18ede77534aac40347aa215cf, view=0a7205abe9cf9a70e85db94dbc7b777f(MainActivity/View-))"
+}

@@ -1,0 +1,51 @@
+{
+  "tag": "3",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          1583
+        ],
+        [
+          1080,
+          1752
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 6,
+      "parent": 56,
+      "temp_id": 62,
+      "size": "116*169",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    }
+  },
+  "start_state": "b40c443cb583848b53c7b7dc96f47d18",
+  "stop_state": "a82fc33f46bbff7ff039edf6d61a3e69",
+  "event_str": "TouchEvent(state=b40c443cb583848b53c7b7dc96f47d18, view=a60437c17504e13b53d8db45ad0e93f3(MainActivity/ImageButton-))"
+}

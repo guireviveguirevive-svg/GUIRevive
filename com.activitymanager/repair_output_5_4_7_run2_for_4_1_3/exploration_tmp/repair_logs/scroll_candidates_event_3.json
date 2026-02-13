@@ -1,0 +1,51 @@
+{
+  "failed_event_number": 3,
+  "total_candidates": 1,
+  "candidates": [
+    {
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "count": 1,
+      "scroll_index": 0,
+      "matching_method": "llm",
+      "view": {
+        "package": "com.activitymanager",
+        "visible": true,
+        "checkable": false,
+        "child_count": 0,
+        "editable": false,
+        "clickable": true,
+        "is_password": false,
+        "focusable": true,
+        "enabled": true,
+        "drawing-order": 3,
+        "content_description": null,
+        "children": [],
+        "focused": false,
+        "bounds": [
+          [
+            964,
+            1583
+          ],
+          [
+            1080,
+            1752
+          ]
+        ],
+        "resource_id": "com.activitymanager:id/appMenu",
+        "checked": false,
+        "text": null,
+        "class": "android.widget.ImageButton",
+        "scrollable": false,
+        "selected": false,
+        "long_clickable": false,
+        "instance": 6,
+        "parent": 56,
+        "temp_id": 62,
+        "size": "116*169",
+        "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+        "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+        "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+      }
+    }
+  ]
+}

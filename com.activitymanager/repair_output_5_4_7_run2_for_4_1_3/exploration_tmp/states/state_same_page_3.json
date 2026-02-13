@@ -1,0 +1,3003 @@
+{
+  "tag": "same_page_3",
+  "state_str": "b40c443cb583848b53c7b7dc96f47d18",
+  "state_str_content_free": "4670c510302eda4b314271d6f965f287",
+  "foreground_activity": "com.activitymanager/com.sdex.activityrunner.MainActivity",
+  "activity_stack": [
+    "com.activitymanager/com.sdex.activityrunner.MainActivity"
+  ],
+  "background_services": [
+    "com.android.dialer/com.android.voicemail.impl.scheduling.TaskSchedulerJobService",
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.shared.util.keepalive.StandaloneKeepAlive",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.auth.proximity.firstparty.SystemMemoryCacheService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.analytics.service.AnalyticsService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.apps.nexuslauncher/com.android.launcher3.notification.NotificationListener",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.github.uiautomator/.AdbKeyboard",
+    "com.google.android.permissioncontroller/com.android.packageinstaller.role.service.RoleControllerServiceImpl",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.android.stk/.StkAppService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.service.ims/.RcsService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.networkstack/com.android.server.NetworkStackService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.google.android.apps.messaging/.shared.fcm.impl.BugleFirebaseMessagingService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService",
+    "com.android.ons/.OpportunisticNetworkService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.google.android.apps.messaging/.shared.fcm.impl.BugleFirebaseInstanceIDService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ],
+  "width": 1080,
+  "height": 1920,
+  "views": [
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 0,
+      "content_description": null,
+      "children": [
+        1
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          1920
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 1,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1080*1920",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3620c6d4a143a1a877d7d8c6ff4d89e9",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 17,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1080*1794",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f26cd822fe48821c1a5daae9720b5f79",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          63
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*1731",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "cbfdc4a4799a32a5ec776dc5610c5e9d",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          63
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1080*1731",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.activitymanager:id/action_bar_root[text]None[enabled,,]",
+      "view_str": "7b80a226cb121fb09bb11b6a2a2db719",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.activitymanager:id/action_bar_root"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          63
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1080*1731",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "0257ccb03a75f4b64025fe40e53789b1",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [
+        6,
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          63
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 16,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1080*1731",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "85e67e7e94f6bb9243d57943fe4ef9e9",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        7,
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          63
+        ],
+        [
+          1080,
+          231
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/toolbar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1080*168",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.activitymanager:id/toolbar[text]None[enabled,,]",
+      "view_str": "0de916874408a169915ab52dffd5980f",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.activitymanager:id/toolbar"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          42,
+          108
+        ],
+        [
+          476,
+          186
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Activity Manager",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "434*78",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Activity Manager[enabled,,]",
+      "view_str": "f4a938ba60ff1fc179c7efae367fd079",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "0",
+      "desc": "<p bound_box=42,108,476,186>Activity Manager</p>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        9,
+        10,
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          721,
+          73
+        ],
+        [
+          1080,
+          220
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.widget.LinearLayoutCompat",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 6,
+      "temp_id": 8,
+      "size": "359*147",
+      "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+      "view_str": "99a3f9f491dcf1c42aeedf2fddf53b2d",
+      "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": "Search",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          721,
+          83
+        ],
+        [
+          848,
+          209
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/action_search",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "127*126",
+      "signature": "[class]android.widget.Button[resource_id]com.activitymanager:id/action_search[text]None[enabled,,]",
+      "view_str": "4827cd1081ef789089b19ed1334b4160",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.activitymanager:id/action_search",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<button text='Search' bound_box=721,83,848,209></button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": "Filter",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          848,
+          83
+        ],
+        [
+          975,
+          209
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/action_filter",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "127*126",
+      "signature": "[class]android.widget.Button[resource_id]com.activitymanager:id/action_filter[text]None[enabled,,]",
+      "view_str": "8aaea35353cd4334034c170c3cf46502",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.activitymanager:id/action_filter",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button text='Filter' bound_box=848,83,975,209></button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": "More options",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          975,
+          83
+        ],
+        [
+          1080,
+          209
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 0,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "105*126",
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+      "view_str": "94f5c0537aacd373a8218f6fa92f3f0f",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "3",
+      "desc": "<button text='More options' bound_box=975,83,1080,209></button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          231
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/coordinator",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 5,
+      "temp_id": 12,
+      "size": "1080*1563",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.activitymanager:id/coordinator[text]None[enabled,,]",
+      "view_str": "5434ec9839867f8b27550db9937615fa",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.activitymanager:id/coordinator"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 8,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [
+        14,
+        20,
+        27,
+        34,
+        41,
+        48,
+        55,
+        62
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          231
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/list",
+      "checked": false,
+      "text": null,
+      "class": "androidx.recyclerview.widget.RecyclerView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1080*1563",
+      "signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.activitymanager:id/list[text]None[enabled,,]",
+      "view_str": "90d7705e0acc2a0045d45190b1c47696",
+      "content_free_signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.activitymanager:id/list",
+      "allowed_actions": [
+        "scroll up",
+        "scroll down"
+      ],
+      "special_attrs": [],
+      "local_id": "4",
+      "desc": "<scrollbar bound_box=0,231,1080,1794></scrollbar>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [
+        15,
+        16,
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          231
+        ],
+        [
+          1080,
+          329
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 1,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "1080*98",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          231
+        ],
+        [
+          137,
+          271
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "105*40",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        17,
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          231
+        ],
+        [
+          964,
+          294
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 14,
+      "temp_id": 16,
+      "size": "795*63",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "a3fa47cc099888813e2339e160aee230",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          231
+        ],
+        [
+          533,
+          251
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "com.activitymanager",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "364*20",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]com.activitymanager[enabled,,]",
+      "view_str": "22039e0c1de54da80ced74763374f806",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "5",
+      "desc": "<button bound_box=169,231,533,251>com.activitymanager</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          251
+        ],
+        [
+          964,
+          294
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/version",
+      "checked": false,
+      "text": "5.4.7 (547)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 16,
+      "temp_id": 18,
+      "size": "795*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version[text]5.4.7 (547)[enabled,,]",
+      "view_str": "437b2dc18e37335b407f7b0af7a7b702",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "6",
+      "desc": "<button bound_box=169,251,964,294>5.4.7 (547)</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          231
+        ],
+        [
+          1080,
+          303
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 14,
+      "temp_id": 19,
+      "size": "116*72",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        21,
+        22,
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          329
+        ],
+        [
+          1080,
+          550
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 3,
+      "parent": 13,
+      "temp_id": 20,
+      "size": "1080*221",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          391
+        ],
+        [
+          137,
+          496
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 1,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "105*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        23,
+        24,
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          368
+        ],
+        [
+          964,
+          519
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 2,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "795*151",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "551e1e46266009ca091507b9d1e1ba1b",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          368
+        ],
+        [
+          414,
+          425
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/name",
+      "checked": false,
+      "text": "Android Auto",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "245*57",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name[text]Android Auto[enabled,,]",
+      "view_str": "a5fdaf341f1b2dfd6948505d953baf33",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "7",
+      "desc": "<button bound_box=169,368,414,425>Android Auto</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          425
+        ],
+        [
+          877,
+          476
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "com.google.android.projection.gearhead",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 22,
+      "temp_id": 24,
+      "size": "708*51",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]com.google.android.projection.gearhead[enabled,,]",
+      "view_str": "b2ce56af7d244271548c7b9466a060a4",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "8",
+      "desc": "<button bound_box=169,425,877,476>com.google.android.projection.gearhead</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          476
+        ],
+        [
+          964,
+          519
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/version",
+      "checked": false,
+      "text": "4.3.591847-release (43591847)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 22,
+      "temp_id": 25,
+      "size": "795*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version[text]4.3.591847-release (43591847)[enabled,,]",
+      "view_str": "9fd491b6372f5f32ecca02982cc71f40",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "9",
+      "desc": "<button bound_box=169,476,964,519>4.3.591847-release (43591847)</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          359
+        ],
+        [
+          1080,
+          528
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 1,
+      "parent": 20,
+      "temp_id": 26,
+      "size": "116*169",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [
+        28,
+        29,
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          550
+        ],
+        [
+          1080,
+          771
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 5,
+      "parent": 13,
+      "temp_id": 27,
+      "size": "1080*221",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          608
+        ],
+        [
+          137,
+          713
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 2,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "105*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        30,
+        31,
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          585
+        ],
+        [
+          964,
+          736
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 4,
+      "parent": 27,
+      "temp_id": 29,
+      "size": "795*151",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "c14663722e7334442df74770ebd4b64e",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          585
+        ],
+        [
+          568,
+          642
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/name",
+      "checked": false,
+      "text": "Android Q Easter Egg",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "399*57",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name[text]Android Q Easter Egg[enabled,,]",
+      "view_str": "aa95df5fa67b60bff725b0486ddfd11a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "10",
+      "desc": "<button bound_box=169,585,568,642>Android Q Easter Egg</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          642
+        ],
+        [
+          463,
+          693
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "com.android.egg",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 29,
+      "temp_id": 31,
+      "size": "294*51",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]com.android.egg[enabled,,]",
+      "view_str": "959ea7a22f36b34449e7264d95f56d6b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "11",
+      "desc": "<button bound_box=169,642,463,693>com.android.egg</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          693
+        ],
+        [
+          964,
+          736
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/version",
+      "checked": false,
+      "text": "1.0 (1)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 29,
+      "temp_id": 32,
+      "size": "795*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version[text]1.0 (1)[enabled,,]",
+      "view_str": "34a73aacbe709c795b83729b38067c2e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "12",
+      "desc": "<button bound_box=169,693,964,736>1.0 (1)</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          576
+        ],
+        [
+          1080,
+          745
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 2,
+      "parent": 27,
+      "temp_id": 33,
+      "size": "116*169",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 4,
+      "content_description": null,
+      "children": [
+        35,
+        36,
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          771
+        ],
+        [
+          1080,
+          992
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 7,
+      "parent": 13,
+      "temp_id": 34,
+      "size": "1080*221",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          829
+        ],
+        [
+          137,
+          934
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 3,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "105*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        37,
+        38,
+        39
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          806
+        ],
+        [
+          964,
+          957
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 6,
+      "parent": 34,
+      "temp_id": 36,
+      "size": "795*151",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "097bdd0ba7b76aca2cff2f6848d7b161",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          806
+        ],
+        [
+          628,
+          863
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/name",
+      "checked": false,
+      "text": "Android Services Library",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 36,
+      "temp_id": 37,
+      "size": "459*57",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name[text]Android Services Library[enabled,,]",
+      "view_str": "e0eac859da054a57cdb0649d8c326350",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "13",
+      "desc": "<button bound_box=169,806,628,863>Android Services Library</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          863
+        ],
+        [
+          737,
+          914
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "com.google.android.ext.services",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 36,
+      "temp_id": 38,
+      "size": "568*51",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]com.google.android.ext.services[enabled,,]",
+      "view_str": "1d24ecc5c8ec401a34d0f6dbbb961a76",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "14",
+      "desc": "<button bound_box=169,863,737,914>com.google.android.ext.services</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          914
+        ],
+        [
+          964,
+          957
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/version",
+      "checked": false,
+      "text": "2019-09 (290000000)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 36,
+      "temp_id": 39,
+      "size": "795*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version[text]2019-09 (290000000)[enabled,,]",
+      "view_str": "5272254939d2677e4dba7becae65d5ab",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "15",
+      "desc": "<button bound_box=169,914,964,957>2019-09 (290000000)</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          797
+        ],
+        [
+          1080,
+          966
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 3,
+      "parent": 34,
+      "temp_id": 40,
+      "size": "116*169",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 5,
+      "content_description": null,
+      "children": [
+        42,
+        43,
+        47
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          992
+        ],
+        [
+          1080,
+          1213
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 9,
+      "parent": 13,
+      "temp_id": 41,
+      "size": "1080*221",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          1054
+        ],
+        [
+          137,
+          1159
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 4,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "105*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        44,
+        45,
+        46
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1031
+        ],
+        [
+          964,
+          1182
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 8,
+      "parent": 41,
+      "temp_id": 43,
+      "size": "795*151",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "2cc89b19bd41cf974053634da1c2bcbf",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1031
+        ],
+        [
+          435,
+          1088
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/name",
+      "checked": false,
+      "text": "Android Setup",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "266*57",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name[text]Android Setup[enabled,,]",
+      "view_str": "c788bd0ca7b459f52cd1523c60c80c13",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "16",
+      "desc": "<button bound_box=169,1031,435,1088>Android Setup</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1088
+        ],
+        [
+          740,
+          1139
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "com.google.android.setupwizard",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 43,
+      "temp_id": 45,
+      "size": "571*51",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]com.google.android.setupwizard[enabled,,]",
+      "view_str": "9728cbd8b8a9ade584ccd34db5c7e63d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "17",
+      "desc": "<button bound_box=169,1088,740,1139>com.google.android.setupwizard</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1139
+        ],
+        [
+          964,
+          1182
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/version",
+      "checked": false,
+      "text": "229.257055621 (2439)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 43,
+      "temp_id": 46,
+      "size": "795*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version[text]229.257055621 (2439)[enabled,,]",
+      "view_str": "68e9c66222d473aff445cade30d99810",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "18",
+      "desc": "<button bound_box=169,1139,964,1182>229.257055621 (2439)</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          1022
+        ],
+        [
+          1080,
+          1191
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 4,
+      "parent": 41,
+      "temp_id": 47,
+      "size": "116*169",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 6,
+      "content_description": null,
+      "children": [
+        49,
+        50,
+        54
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1213
+        ],
+        [
+          1080,
+          1434
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 11,
+      "parent": 13,
+      "temp_id": 48,
+      "size": "1080*221",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          1271
+        ],
+        [
+          137,
+          1376
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 5,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "105*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        51,
+        52,
+        53
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1248
+        ],
+        [
+          964,
+          1399
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 10,
+      "parent": 48,
+      "temp_id": 50,
+      "size": "795*151",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "c677c6ee8b7f5ba55af2312db2ffce44",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1248
+        ],
+        [
+          435,
+          1305
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/name",
+      "checked": false,
+      "text": "Android Setup",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 1,
+      "parent": 50,
+      "temp_id": 51,
+      "size": "266*57",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name[text]Android Setup[enabled,,]",
+      "view_str": "c788bd0ca7b459f52cd1523c60c80c13",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "19",
+      "desc": "<button bound_box=169,1248,435,1305>Android Setup</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1305
+        ],
+        [
+          749,
+          1356
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "com.google.android.apps.restore",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 50,
+      "temp_id": 52,
+      "size": "580*51",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]com.google.android.apps.restore[enabled,,]",
+      "view_str": "5906047fc98b070663def3a48fbb7dce",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "20",
+      "desc": "<button bound_box=169,1305,749,1356>com.google.android.apps.restore</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1356
+        ],
+        [
+          964,
+          1399
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/version",
+      "checked": false,
+      "text": "1.0.233743793 (7057)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 50,
+      "temp_id": 53,
+      "size": "795*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version[text]1.0.233743793 (7057)[enabled,,]",
+      "view_str": "95e1ac86ab5ca816f02d4ccde2936814",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "21",
+      "desc": "<button bound_box=169,1356,964,1399>1.0.233743793 (7057)</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          1239
+        ],
+        [
+          1080,
+          1408
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 5,
+      "parent": 48,
+      "temp_id": 54,
+      "size": "116*169",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 7,
+      "content_description": null,
+      "children": [
+        56,
+        57,
+        61
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1434
+        ],
+        [
+          1080,
+          1655
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 13,
+      "parent": 13,
+      "temp_id": 55,
+      "size": "1080*221",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          1496
+        ],
+        [
+          137,
+          1601
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 6,
+      "parent": 55,
+      "temp_id": 56,
+      "size": "105*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        58,
+        59,
+        60
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1473
+        ],
+        [
+          964,
+          1624
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 12,
+      "parent": 55,
+      "temp_id": 57,
+      "size": "795*151",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "9cafa7d991a88091ac5c6f2324f9c30d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1473
+        ],
+        [
+          467,
+          1530
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/name",
+      "checked": false,
+      "text": "Android System",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 57,
+      "temp_id": 58,
+      "size": "298*57",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name[text]Android System[enabled,,]",
+      "view_str": "dc2b5089234754d47e6e5d768afb5ce8",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "22",
+      "desc": "<button bound_box=169,1473,467,1530>Android System</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1530
+        ],
+        [
+          301,
+          1581
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "android",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 57,
+      "temp_id": 59,
+      "size": "132*51",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]android[enabled,,]",
+      "view_str": "60b5681f4a6aa8c9bba58f484993f0ce",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "23",
+      "desc": "<button bound_box=169,1530,301,1581>android</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1581
+        ],
+        [
+          964,
+          1624
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/version",
+      "checked": false,
+      "text": "10 (29)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 57,
+      "temp_id": 60,
+      "size": "795*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version[text]10 (29)[enabled,,]",
+      "view_str": "5f99a6218f92645da80bac11222efaa2",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/version",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "24",
+      "desc": "<button bound_box=169,1581,964,1624>10 (29)</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          1464
+        ],
+        [
+          1080,
+          1633
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 6,
+      "parent": 55,
+      "temp_id": 61,
+      "size": "116*169",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 8,
+      "content_description": null,
+      "children": [
+        63,
+        64,
+        67
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1655
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "instance": 15,
+      "parent": 13,
+      "temp_id": 62,
+      "size": "1080*139",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3f7712f3f1be7a1e77341365448ad0a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          1713
+        ],
+        [
+          137,
+          1794
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 7,
+      "parent": 62,
+      "temp_id": 63,
+      "size": "105*81",
+      "signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon[text]None[enabled,,]",
+      "view_str": "632022a6ed31d06088cc6fbfe0e97441",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.activitymanager:id/icon"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [
+        65,
+        66
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1690
+        ],
+        [
+          964,
+          1794
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 14,
+      "parent": 62,
+      "temp_id": 64,
+      "size": "795*104",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "58d34f8a5f9b90091873faab5ee10399",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 1,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1694
+        ],
+        [
+          585,
+          1751
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/name",
+      "checked": false,
+      "text": "Android System Angle",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 64,
+      "temp_id": 65,
+      "size": "416*57",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name[text]Android System Angle[enabled,,]",
+      "view_str": "f48ccb1079b44f78787be7d4d37d4fcf",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/name",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "25",
+      "desc": "<button bound_box=169,1694,585,1751>Android System Angle</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "drawing-order": 2,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          169,
+          1751
+        ],
+        [
+          623,
+          1794
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/packageName",
+      "checked": false,
+      "text": "com.google.android.angle",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 0,
+      "parent": 64,
+      "temp_id": 66,
+      "size": "454*43",
+      "signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName[text]com.google.android.angle[enabled,,]",
+      "view_str": "311d4c1949f89ea13c07d2d371576fb6",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.activitymanager:id/packageName",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "26",
+      "desc": "<button bound_box=169,1751,623,1794>com.google.android.angle</button>"
+    },
+    {
+      "package": "com.activitymanager",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "drawing-order": 3,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          964,
+          1685
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": "com.activitymanager:id/appMenu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "instance": 7,
+      "parent": 62,
+      "temp_id": 67,
+      "size": "116*109",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu[text]None[enabled,,]",
+      "view_str": "a60437c17504e13b53d8db45ad0e93f3",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.activitymanager:id/appMenu"
+    }
+  ]
+}

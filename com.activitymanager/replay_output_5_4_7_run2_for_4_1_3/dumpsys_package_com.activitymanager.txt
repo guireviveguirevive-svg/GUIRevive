@@ -1,0 +1,126 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        d872d2 com.activitymanager/com.sdex.activityrunner.MainActivity filter 214fdf0
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        f910fa3 com.activitymanager/androidx.profileinstaller.ProfileInstallReceiver filter 887f28f
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        f910fa3 com.activitymanager/androidx.profileinstaller.ProfileInstallReceiver filter fef6f69
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      androidx.profileinstaller.action.SKIP_FILE:
+        f910fa3 com.activitymanager/androidx.profileinstaller.ProfileInstallReceiver filter 11a9dee
+          Action: "androidx.profileinstaller.action.SKIP_FILE"
+      androidx.profileinstaller.action.BENCHMARK_OPERATION:
+        f910fa3 com.activitymanager/androidx.profileinstaller.ProfileInstallReceiver filter 764091c
+          Action: "androidx.profileinstaller.action.BENCHMARK_OPERATION"
+
+Permissions:
+  Permission [com.activitymanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (e9982a0):
+    sourcePackage=com.activitymanager
+    uid=10147 gids=null type=0 prot=signature
+    perm=Permission{4e98e59 com.activitymanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+    packageSetting=PackageSetting{2a6ea1e com.activitymanager/10147}
+
+Registered ContentProviders:
+  com.activitymanager/androidx.core.content.FileProvider:
+    Provider{d9b02ff com.activitymanager/androidx.core.content.FileProvider}
+  com.activitymanager/androidx.startup.InitializationProvider:
+    Provider{62428cc com.activitymanager/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.activitymanager.androidx-startup]:
+    Provider{62428cc com.activitymanager/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{b9bb715 com.activitymanager}
+  [com.activitymanager.fileprovider]:
+    Provider{d9b02ff com.activitymanager/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{b9bb715 com.activitymanager}
+
+Key Set Manager:
+  [com.activitymanager]
+      Signing KeySets: 30
+
+Packages:
+  Package [com.activitymanager] (2a6ea1e):
+    userId=10147
+    pkg=Package{2538a2a com.activitymanager}
+    codePath=/data/app/com.activitymanager-Oi8lFx6Gqz3l56xfietrtg==
+    resourcePath=/data/app/com.activitymanager-Oi8lFx6Gqz3l56xfietrtg==
+    legacyNativeLibraryDir=/data/app/com.activitymanager-Oi8lFx6Gqz3l56xfietrtg==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=547 minSdk=21 targetSdk=34
+    versionName=5.4.7
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{b9bb715 com.activitymanager}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/com.activitymanager
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      androidx.window.extensions
+      androidx.window.sidecar
+    timeStamp=2025-10-28 00:56:27
+    firstInstallTime=2025-10-28 00:56:27
+    lastUpdateTime=2025-10-28 00:56:27
+    signatures=PackageSignatures{826d01b version:2, signatures:[49b2e6d7], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    declared permissions:
+      com.activitymanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: prot=signature, INSTALLED
+    requested permissions:
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      android.permission.QUERY_ALL_PACKAGES
+    install permissions:
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+    User 0: ceDataInode=-4294835749 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Package Changes:
+  Sequence number=118
+  User 0:
+    seq=0, package=com.google.android.apps.inputmethod.hindi
+    seq=1, package=com.google.android.inputmethod.korean
+    seq=2, package=com.google.android.inputmethod.pinyin
+    seq=3, package=com.google.android.permissioncontroller
+    seq=4, package=com.android.systemui
+    seq=5, package=com.android.settings
+    seq=6, package=com.google.android.setupwizard
+    seq=8, package=com.google.android.inputmethod.latin
+    seq=9, package=com.google.android.sdksetup
+    seq=11, package=com.google.android.apps.restore
+    seq=16, package=com.google.android.partnersetup
+    seq=17, package=com.google.android.gm
+    seq=18, package=com.github.uiautomator
+    seq=20, package=com.google.android.googlequicksearchbox
+    seq=23, package=com.google.android.youtube
+    seq=32, package=com.activitymanager
+    seq=117, package=com.google.android.gms
+
+
+Dexopt state:
+  [com.activitymanager]
+    path: /data/app/com.activitymanager-Oi8lFx6Gqz3l56xfietrtg==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.activitymanager]
+     base.apk - 1329
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+
+  APEX session state:
