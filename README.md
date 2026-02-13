@@ -6,7 +6,6 @@ GUIRevive is an automated approach for repairing obsolete GUI tests caused by UI
 This repository is organized into two parts: **Data** and **Tool**.
 
 - [**Dataset**](#1-dataset) -- 736 obsolete test cases across 36 open-source Android apps (`All_cases.csv`)
-- [**Obsolete Test Collection**](#2-obsolete-test-collection) -- Tools for recording and replaying GUI test cases across app versions to collect obsolete test cases
 - [**GUIRevive**](#3-test-case-repair-guirevive) -- Our automated approach for repairing obsolete GUI tests using semantic-aware widget localization, functionality-preserving validation, and goal-guided exploration
 
 ## Prerequisites
